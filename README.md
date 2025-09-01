@@ -1,2 +1,2 @@
 # titanic_dataset
-Working with the titanic dataset
+Explored the Titanic dataset to model passenger survival outcomes, a classic benchmark for binary classification and feature engineering. Addressed missing values in Age, Cabin, and Fare using imputation and column removal strategies to maintain data integrity. Conducted exploratory analysis to uncover survival patterns across demographics and engineered features like Title and FamilySize to enrich predictive power. Applied one-hot and label encoding to categorical variables, scaled numerical features, and trained a Random Forest classifier with hyperparameter tuning via RandomizedSearchCV.
